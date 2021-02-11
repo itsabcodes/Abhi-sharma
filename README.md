@@ -15,8 +15,8 @@ Skills<br />
 ✓ Standards: Design Patterns, Agile, Web accessibility, W3C standards and Cross browser compatibility.<br />
 ✓ Performance tools: Chrome Audit.<br />
 
-Mailbox How to reach me<br />
+Way to connect with me<br />
 Email: abhisheks10march@gmail.com<br />
 Mobile: +919996614765<br />
-Stack OverFlow :-<a href="https://stackoverflow.com/users/3932773/abhishek" target="_blank">Check my Stack Overflow Profile</a>/<br />
 LinkedIn:- <a href="https://www.linkedin.com/in/abhishek-sharma-a5b157a9" target="_blank">Check my LinkedIn Profile</a>/<br />
+Stack OverFlow :-<a href="https://stackoverflow.com/users/3932773/abhishek" target="_blank">Check my Stack Overflow Profile</a>/<br />
