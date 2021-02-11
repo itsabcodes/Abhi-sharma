@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Abhi-sharma/Abhi-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there
 
 I'm Abhishek, a Senior Software Engineer by profession with over 6+ years of experience and working with global teams across Europe, India, and the US.
 Worked with startups and enterprise clients on complex web apps, hybrid mobile apps using a wide range of libraries and frameworks.
