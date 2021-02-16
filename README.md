@@ -16,7 +16,7 @@ Skills<br />
 ✓ Performance tools: Chrome Audit.<br />
 
 Way to connect with me<br />
-Email: abhisheks10march@gmail.com<br />
+Email: <a href="mailto:abhisheks10march@gmail.com">abhisheks10march@gmail.com</a><br />
 Mobile: +919996614765<br />
 LinkedIn:- <a href="https://www.linkedin.com/in/abhishek-sharma-a5b157a9" target="_blank"> Check My LinkedIn Profile</a><br />
 Stack OverFlow :- <a href="https://stackoverflow.com/users/3932773/abhishek" target="_blank"> Check My Stack Overflow Profile</a><br />
