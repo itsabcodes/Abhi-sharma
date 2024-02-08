@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Abhishek, a Senior Software Engineer by profession with over 6+ years of experience and working with global teams across Europe, India, and the US.<br />
+I'm Abhishek, a Senior Software Engineer by profession with over 9+ years of experience and working with global teams across Europe, India, and the US.<br />
 Worked with startups and enterprise clients on complex web apps, hybrid mobile apps using a wide range of libraries and frameworks.<br />
 Developed products for industries such as eCommerce, FIntech, healthcare, communication, real estate, music and entertainment and adventure sports.<br />
 
